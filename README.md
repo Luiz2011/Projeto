@@ -1,11 +1,10 @@
-# Projeto
+# Projete
 <!doctype html>
-<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
     <title>Uma Página HTML5 Básica</title>
 </head>
 <body>
-<!-- conteúdo da página -->
+O caio é um Mané
+  <img src="https://www.hypeness.com.br/1/2018/08/Lemur5.jpg">
 </body>
 </html>
