@@ -1,7 +1,7 @@
 # Projete
 <!doctype html>
 <head>
-    <title>Uma Página HTML5 Básica</title>
+    Uma Página HTML5 Básica
 </head>
 <body>
 O caio é um Mané
